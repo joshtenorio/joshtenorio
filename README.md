@@ -1,7 +1,7 @@
 DAQ team lead @ [Sun Devil Motorsports](https://fsae.engineering.asu.edu/), Arizona State's Formula SAE team
 
 Nowadays I'm:
-- 🔭 working on [glassyPDM](https://sr.ht/~joshtenorio/glassypdm/), a GrabCAD Workbench replacement
+- 🔭 working on [glassyPDM](https://github.com/joshtenorio/glassypdm-client), a GrabCAD Workbench replacement
 - 🌱 learning Rust, UI/UX, and vehicle dynamics
 <!--
 **joshtenorio/joshtenorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
