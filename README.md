@@ -3,6 +3,7 @@ DAQ team lead @ [Sun Devil Motorsports](https://fsae.engineering.asu.edu/), Ariz
 Nowadays I'm:
 - 🔭 working on [glassyPDM](https://github.com/joshtenorio/glassypdm-client), a GrabCAD Workbench replacement
 - 🌱 learning Rust, UI/UX, and vehicle dynamics
+- 😄 anticipating graduation in May 2024!
 <!--
 **joshtenorio/joshtenorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
