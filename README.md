@@ -3,6 +3,9 @@ Graduated 🎉
 Nowadays I'm:
 - 🔭 working on [glassyPDM](https://github.com/joshtenorio/glassypdm-client), a GrabCAD Workbench replacement
 - 🌱 learning Rust and UI/UX
+
+Formerly:
+- ASU Formula SAE DAQ (2021-2024, Lead 2022-2024)
 <!--
 **joshtenorio/joshtenorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
