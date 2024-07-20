@@ -2,11 +2,11 @@ Graduated 🎉
 
 Nowadays I'm:
 - :small_airplane: a Software Engineer @ Garmin
-- 🔭 working on [glassyPDM](https://github.com/joshtenorio/glassypdm-client), a GrabCAD Workbench replacement
-- 🌱 learning Rust and UI/UX
+- 🗄️ working on [glassyPDM](https://github.com/joshtenorio/glassypdm-client), a GrabCAD Workbench replacement
+- :robot: building a 1 lb combat robot
 
 Formerly:
-- ASU Formula SAE DAQ (2021-2024, Lead 2022-2024)
+- 🏎️ ASU Formula SAE Data Acquisition (2021-2024, Lead 2022-2024)
 <!--
 **joshtenorio/joshtenorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
