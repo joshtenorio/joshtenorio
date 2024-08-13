@@ -2,7 +2,7 @@ Graduated 🎉
 
 Nowadays I'm:
 - :small_airplane: a Software Engineer @ Garmin
-- 🗄️ working on [glassyPDM](https://github.com/joshtenorio/glassypdm-client), a GrabCAD Workbench replacement
+- 🗄️ working on [glassyPDM](https://github.com/glassypdm), a GrabCAD Workbench replacement
 - :robot: building a 1 lb combat robot
 
 Formerly:
